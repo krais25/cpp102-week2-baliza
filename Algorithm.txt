@@ -3,4 +3,4 @@ STEP 2: Ask the user to enter the first number. store it as num1 (13)
 STEP 3: Ask the user to enter the second number. store it as num2 (12)
 STEP 4: Compute sum = 12 + 13
 STEP 5: DISPLAY SUM (25)
-STEP 6: END.
+STEP 6: END.	
