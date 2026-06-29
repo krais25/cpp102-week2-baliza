@@ -1,0 +1,31 @@
+Activity 1
+
+START 
+INPUT num13
+INPUT num12
+PROCESS sum = num12 + num13
+DISPLAY 25
+END 
+
+Activity 2
+
+START
+INPUT grade 5
+INPUT grade 6
+INPUT grade 7
+PROCESS average = (grade5 + grade6 + grade7)/3
+DISPLAY average
+END
+
+Activity 3
+
+START
+INPUT number
+IF  number MOD 2 = 0 THEN
+           Display "Even"
+       
+ELSE
+          Display "Odd"
+
+END IF
+END
